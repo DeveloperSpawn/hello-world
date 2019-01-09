@@ -1,2 +1,4 @@
 # hello-world
-Just a test repository
+
+Hello guys!
+This is a repository to test my skills in git.
